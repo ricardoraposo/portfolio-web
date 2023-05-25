@@ -1,0 +1,39 @@
+h1,
+h3 {
+  color: #E75A7C;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+p, ul {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+body {
+  background-color: #2C363F;
+  color: white;
+}
+
+a {
+  text-decoration: underline;
+  color: #BBC7A4;
+}
+
+#my_pic {
+  border-radius: 40%;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
